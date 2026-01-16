@@ -16,5 +16,13 @@ namespace Skvortsova_PR07_Git
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Visible = false;
+            AdminForm adminForm = new AdminForm();
+            adminForm.ShowDialog();
+            this.Visible = true;
+        }
     }
 }

@@ -106,7 +106,6 @@
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
-            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "ПР07";
             this.Text = "ПР07";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

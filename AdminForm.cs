@@ -35,5 +35,13 @@ namespace Skvortsova_PR07_Git
         {
             label1.Text = DateTime.Now.ToString("dd.MM.yyyy HH:mm:ss");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Auth Auth = new Auth();
+            this.Visible = false;
+            Auth.ShowDialog();
+            this.Visible = true;
+        }
     }
 }
