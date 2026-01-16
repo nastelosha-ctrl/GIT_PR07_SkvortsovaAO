@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Documents\\Skvortsova_PR07_Git\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD82903E-CF6C-4D78-BB99-660147765F12}|Skvortsova_PR07_Git.csproj|d:\\documents\\skvortsova_pr07_git\\\u043F\u044007.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD82903E-CF6C-4D78-BB99-660147765F12}|Skvortsova_PR07_Git.csproj|solutionrelative:\u043F\u044007.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DD82903E-CF6C-4D78-BB99-660147765F12}|Skvortsova_PR07_Git.csproj|d:\\documents\\skvortsova_pr07_git\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD82903E-CF6C-4D78-BB99-660147765F12}|Skvortsova_PR07_Git.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,13 +19,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "\u041F\u042007.cs [Design]",
-              "DocumentMoniker": "D:\\Documents\\Skvortsova_PR07_Git\\\u041F\u042007.cs",
-              "RelativeDocumentMoniker": "\u041F\u042007.cs",
-              "ToolTip": "D:\\Documents\\Skvortsova_PR07_Git\\\u041F\u042007.cs [Design]",
-              "RelativeToolTip": "\u041F\u042007.cs [Design]",
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\Skvortsova_PR07_Git\\Admin.cs",
+              "RelativeDocumentMoniker": "Admin.cs",
+              "ToolTip": "D:\\Documents\\Skvortsova_PR07_Git\\Admin.cs [Design]*",
+              "RelativeToolTip": "Admin.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T10:00:42.835Z",
+              "WhenOpened": "2026-01-16T08:12:18.769Z",
               "EditorCaption": " [Design]"
             }
           ]
