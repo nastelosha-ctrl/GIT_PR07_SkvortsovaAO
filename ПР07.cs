@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Skvortsova_PR07_Git
 {
-    public partial class Form1 : Form
+    public partial class ПР07 : Form
     {
-        public Form1()
+        public ПР07()
         {
             InitializeComponent();
         }

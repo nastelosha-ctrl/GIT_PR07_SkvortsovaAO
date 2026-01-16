@@ -1,6 +1,6 @@
 ﻿namespace Skvortsova_PR07_Git
 {
-    partial class Form1
+    partial class ПР07
     {
         /// <summary>
         /// Required designer variable.
