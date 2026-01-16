@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlTypes;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -21,6 +22,18 @@ namespace Skvortsova_PR07_Git
         {
             MessageBox.Show("Скворцова А.О.", "ФИО администратора",
                             MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+        private void AdminForm_Load(object sender, EventArgs e)
+        {
+            // Устанавливаем текущую дату и время при загрузке формы
+            label1.Text = DateTime.Now.ToString("dd.MM.yyyy HH:mm:ss");
+            timer1.Start(); // Запускаем таймер
+        }
+
+        // Таймер обновляет дату и время каждую секунду
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            label1.Text = DateTime.Now.ToString("dd.MM.yyyy HH:mm:ss");
         }
     }
 }
