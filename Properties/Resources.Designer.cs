@@ -59,5 +59,15 @@ namespace Skvortsova_PR07_Git.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap stone_shapes_jewelry_machine_slot_jewel_casino_gem_diamond_big_icon_255647 {
+            get {
+                object obj = ResourceManager.GetObject("stone_shapes_jewelry_machine_slot_jewel_casino_gem_diamond_big_icon_255647", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

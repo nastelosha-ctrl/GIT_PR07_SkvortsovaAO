@@ -7,7 +7,11 @@
       "RelativeMoniker": "D:0:0:{DD82903E-CF6C-4D78-BB99-660147765F12}|Skvortsova_PR07_Git.csproj|solutionrelative:\u043F\u044007.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD82903E-CF6C-4D78-BB99-660147765F12}|Skvortsova_PR07_Git.csproj|d:\\documents\\skvortsova_pr07_git\\\u043F\u044007.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD82903E-CF6C-4D78-BB99-660147765F12}|Skvortsova_PR07_Git.csproj|d:\\documents\\skvortsova_pr07_git\\\u043F\u044007.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD82903E-CF6C-4D78-BB99-660147765F12}|Skvortsova_PR07_Git.csproj|solutionrelative:\u043F\u044007.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD82903E-CF6C-4D78-BB99-660147765F12}|Skvortsova_PR07_Git.csproj|D:\\Documents\\Skvortsova_PR07_Git\\\u043F\u044007.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD82903E-CF6C-4D78-BB99-660147765F12}|Skvortsova_PR07_Git.csproj|solutionrelative:\u043F\u044007.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "\u041F\u042007.Designer.cs",
+              "DocumentMoniker": "D:\\Documents\\Skvortsova_PR07_Git\\\u041F\u042007.Designer.cs",
+              "RelativeDocumentMoniker": "\u041F\u042007.Designer.cs",
+              "ToolTip": "D:\\Documents\\Skvortsova_PR07_Git\\\u041F\u042007.Designer.cs",
+              "RelativeToolTip": "\u041F\u042007.Designer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T07:59:48.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "\u041F\u042007.cs",
               "DocumentMoniker": "D:\\Documents\\Skvortsova_PR07_Git\\\u041F\u042007.cs",
               "RelativeDocumentMoniker": "\u041F\u042007.cs",
