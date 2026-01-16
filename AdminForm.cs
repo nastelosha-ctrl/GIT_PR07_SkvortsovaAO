@@ -16,5 +16,11 @@ namespace Skvortsova_PR07_Git
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Скворцова А.О.", "ФИО администратора",
+                            MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
     }
 }
