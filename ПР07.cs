@@ -16,5 +16,9 @@ namespace Skvortsova_PR07_Git
         {
             InitializeComponent();
         }
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            Application.Close(this);
+        }
     }
 }
